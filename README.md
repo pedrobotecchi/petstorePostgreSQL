@@ -1,1 +1,1 @@
-# petstorePostgreSQL
+# petstorePostgresql
